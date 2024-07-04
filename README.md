@@ -1,6 +1,3 @@
-
-# Comprehensive Sales Prediction Model using XGBoost - Project Report
-
 ## Project Overview
 This project's mission was to construct a predictive model capable of forecasting sales for retail stores. Utilising the XGBoost algorithm, known for its efficiency and predictive power. Here are the key components of our project:
 
@@ -15,7 +12,7 @@ The dataset comprises three main components:
      - **Items**: Information about individual items sold in the stores.
      - **Outlets**: Details about the retail outlets where items are sold.
      - **Historical Sales Data**: Records of past sales transactions.
-# The fFeatures includes: 
+# Features includes: 
 
 - **Item_Identifier**: Unique identifier for each item.
 - **Item_Weight**: Weight of the item.
